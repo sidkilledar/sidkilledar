@@ -27,6 +27,7 @@
 
 ![Metrics](https://metrics.lecoq.io/sidkilledar?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidkilledar&theme=tokyonight" alt="mystreak"/>
 
 
 
