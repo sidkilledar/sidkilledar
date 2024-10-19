@@ -23,4 +23,6 @@
 - LinkedIn: [your-linkedin-profile](www.linkedin.com/in/killedar)  
 - Email: [skilledar@ucdavis.edu]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidkilledar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=15)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sidkilledar&theme=github)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sidkilledar&theme=github)
+
