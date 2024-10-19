@@ -1,6 +1,6 @@
 # Hi, I'm Sid 👋
 
-🎓  Computer Science undergraduate at UC Davis  
+🎓  Computer Science undergraduate at UC Davis                                  
 💻 Passionate about Full Stack Development, Data Science, and AI  
 🚀 Open to Internship/Full-time Opportunities in Software Engineering  
 
