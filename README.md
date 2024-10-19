@@ -28,6 +28,6 @@
 ![Metrics](https://metrics.lecoq.io/sidkilledar?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
-<img src="https://myreadme.vercel.app/api/embed/sidkilledar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidkilledar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="languages" />
