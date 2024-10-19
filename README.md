@@ -20,7 +20,7 @@
   🚀 Developed a web application using React and Flask.
 
 ## 📫 Let's Connect!
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourusername)  
-- Email: [youremail@gmail.com]
+- LinkedIn: [your-linkedin-profile](www.linkedin.com/in/killedar)  
+- Email: [skilledar@ucdavis.edu]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidkilledar&show_icons=true&theme=radical&include_all_commits=true)
